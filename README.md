@@ -1,2 +1,3 @@
 # DC-Motor-Control
-![RPM_Data](https://user-images.githubusercontent.com/113368613/215934803-17bddbd0-ae88-4b56-a1d6-d4c148fe3785.PNG)
+![image](https://user-images.githubusercontent.com/113368613/215935265-a4c17ec2-bada-4e5f-96e2-8b300fae6346.png)
+
