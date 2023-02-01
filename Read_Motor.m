@@ -1,4 +1,4 @@
-%CPE-310 Mike Stepanik FINAL EXAM
+%Read_Motor.m
 clear all
 clc
 m=10^-3
