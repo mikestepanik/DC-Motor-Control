@@ -1,5 +1,3 @@
-
-
 /*
  * DC_Motor_Control.c
  *
