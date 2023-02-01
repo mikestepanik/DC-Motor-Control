@@ -1,7 +1,7 @@
 
 
 /*
- * CPE310_MikeStepanik_Final.c
+ * DC_Motor_Control.c
  *
  * 
  * 
